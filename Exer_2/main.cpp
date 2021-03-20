@@ -14,12 +14,14 @@ int main()
     cin>>NumN;
 
     if (NumN%2==0)
-    {
+
         cout<<"El numero "<<NumN<<" es PAR."<<endl;
-    }
+
 
     else
-    {
+
         cout<<"El numero "<<NumN<<" es IMPAR."<<endl;
-    }
+
+    return 0;
+
 }
