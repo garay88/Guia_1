@@ -1,6 +1,4 @@
-/*
-Programa que pide dos numeros A y B, he imprime en pantalla la potencia A^B
-*/
+/* Programa que pide dos numeros A y B, he imprime en pantalla la potencia A^B */
 
 #include <iostream>
 
